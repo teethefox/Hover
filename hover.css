@@ -1,0 +1,68 @@
+img{
+    width:500px;
+height:500px;
+margin:10px;
+}
+#one{
+   
+width:500px;
+height:500px;
+background-image:url(anakin.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+
+}
+body{
+ width:1000px;
+}
+#one:hover{
+    background-image:url(darthvader.jpg);
+    width:500px;
+    height:500px;
+}
+#three{
+width:500px;
+height:500px;
+background-image:url(steve.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+}
+#three:hover{
+    width:500px;
+height:500px;
+background-image:url(stefan.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+}
+#five{
+    width:500px;
+height:500px;
+background-image:url(robinw.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+}
+#five:hover{
+    width:500px;
+height:500px;
+background-image:url(mrsdoubtfire.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+}
+#seven{
+    width:500px;
+height:500px;
+background-image:url(tylerperry.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+}
+
+#seven:hover{
+    width:500px;
+height:500px;
+background-image:url(madea.jpg);
+background-repeat:no-repeat ;
+background-size:cover;
+}
+#pics{
+    display:inline-flex;
+}
